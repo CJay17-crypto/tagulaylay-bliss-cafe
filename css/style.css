@@ -22,7 +22,6 @@ body {
     display: flex;
 }
 
-
 .nav a {
     text-decoration: none;
     padding: 10px 15px;
@@ -32,4 +31,14 @@ body {
 
 .nav a:hover {
     color: #ffa237; 
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #bbb4b4;
+  color: white;
+  text-align: center;
 }
